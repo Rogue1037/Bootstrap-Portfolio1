@@ -1,3 +1,8 @@
+* {
+box-sizing: border-box;
+
+}
+
 header {
     font-size: 48px;
     background-color: chocolate;
@@ -72,6 +77,13 @@ input[type=text], select {
 
     
 }
+
+@media (min-width: 576px) {
+
+
+  
+}
+
 
 
 
