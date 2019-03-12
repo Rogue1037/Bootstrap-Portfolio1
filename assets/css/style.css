@@ -14,6 +14,8 @@ header {
     font-weight: bolder;
     text-align: center;
     padding: 40px;
+    
+
 }
 
 .footer {
@@ -27,6 +29,7 @@ header {
     text-align: center;
     padding: 50px;
     bottom: 0;
+    
 
 }
 
@@ -78,7 +81,27 @@ input[type=text], select {
     
 }
 
+.nav {
+  
+  
+}
+
+
 @media (min-width: 576px) {
+
+.para1 {
+text-align: left;
+margin: auto 0px;
+float: left;
+
+
+}
+
+* {
+  max-width: 100%;
+}
+
+
 
 
   
